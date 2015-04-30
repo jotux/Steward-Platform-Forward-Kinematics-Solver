@@ -14,3 +14,7 @@ https://www.youtube.com/watch?v=ABYmeZRDyYg
 # Code
 
 The matlab code is in the /src directory.
+
+# Support
+
+I wrote this code in the summer of 2006. It is provided here, for reference, but I offer no support or advice.
